@@ -15,7 +15,7 @@ public class Rectangles
 		String input;
 		int length = 0;
 		int width = 0;
-		int area=0 ;
+	int area=0 ;
 		int counter = 1;
 
 
